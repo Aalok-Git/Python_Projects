@@ -1,1 +1,1 @@
-This repo is dedicated to practice the basic concepts of data science
+### This repo is dedicated to practising the basic concepts of data science
